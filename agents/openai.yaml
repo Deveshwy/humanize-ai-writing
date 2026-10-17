@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanize AI Writing"
+  short_description: "Humanize written and spoken prose without factual drift"
+  default_prompt: "Use $humanize-ai-writing to make this draft plain, natural, specific, and appropriate for its written or spoken surface while preserving its facts, citations, uncertainty, and voice."
